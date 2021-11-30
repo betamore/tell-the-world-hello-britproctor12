@@ -1,6 +1,9 @@
-function hello_world(){
-  // write your code here
+function hello_world() {
+  return "Hello World!"
 
 }
 
 module.exports = hello_world;
+
+
+hello_world()
